@@ -1,0 +1,785 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2902113,52.97610651 ]
+    },
+    "properties": {
+    "GEO":"Alberta",
+    "Gender":"Men",
+    "Indicators":"Always or often feels lonely",
+    "VALUE":12.14444444
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2902113,52.97610651 ]
+    },
+    "properties": {
+    "GEO":"Alberta",
+    "Gender":"Men",
+    "Indicators":"Rarely or never feels lonely",
+    "VALUE":56.65555556
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2902113,52.97610651 ]
+    },
+    "properties": {
+    "GEO":"Alberta",
+    "Gender":"Men",
+    "Indicators":"Sometimes feels lonely",
+    "VALUE":31.58888889
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2902113,52.97610651 ]
+    },
+    "properties": {
+    "GEO":"Alberta",
+    "Gender":"Women",
+    "Indicators":"Always or often feels lonely",
+    "VALUE":14.78888889
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2902113,52.97610651 ]
+    },
+    "properties": {
+    "GEO":"Alberta",
+    "Gender":"Women",
+    "Indicators":"Rarely or never feels lonely",
+    "VALUE":46.83333333
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2902113,52.97610651 ]
+    },
+    "properties": {
+    "GEO":"Alberta",
+    "Gender":"Women",
+    "Indicators":"Sometimes feels lonely",
+    "VALUE":38.71111111
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -127.4834464,56.11486697 ]
+    },
+    "properties": {
+    "GEO":"British Columbia",
+    "Gender":"Men",
+    "Indicators":"Always or often feels lonely",
+    "VALUE":12.27777778
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -127.4834464,56.11486697 ]
+    },
+    "properties": {
+    "GEO":"British Columbia",
+    "Gender":"Men",
+    "Indicators":"Rarely or never feels lonely",
+    "VALUE":58.11111111
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -127.4834464,56.11486697 ]
+    },
+    "properties": {
+    "GEO":"British Columbia",
+    "Gender":"Men",
+    "Indicators":"Sometimes feels lonely",
+    "VALUE":29.94444444
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -127.4834464,56.11486697 ]
+    },
+    "properties": {
+    "GEO":"British Columbia",
+    "Gender":"Women",
+    "Indicators":"Always or often feels lonely",
+    "VALUE":15.58888889
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -127.4834464,56.11486697 ]
+    },
+    "properties": {
+    "GEO":"British Columbia",
+    "Gender":"Women",
+    "Indicators":"Rarely or never feels lonely",
+    "VALUE":44.53333333
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -127.4834464,56.11486697 ]
+    },
+    "properties": {
+    "GEO":"British Columbia",
+    "Gender":"Women",
+    "Indicators":"Sometimes feels lonely",
+    "VALUE":40.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.06620055,55.82857377 ]
+    },
+    "properties": {
+    "GEO":"Manitoba",
+    "Gender":"Men",
+    "Indicators":"Always or often feels lonely",
+    "VALUE":12.92222222
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.06620055,55.82857377 ]
+    },
+    "properties": {
+    "GEO":"Manitoba",
+    "Gender":"Men",
+    "Indicators":"Rarely or never feels lonely",
+    "VALUE":55.01111111
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.06620055,55.82857377 ]
+    },
+    "properties": {
+    "GEO":"Manitoba",
+    "Gender":"Men",
+    "Indicators":"Sometimes feels lonely",
+    "VALUE":32.76666667
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.06620055,55.82857377 ]
+    },
+    "properties": {
+    "GEO":"Manitoba",
+    "Gender":"Women",
+    "Indicators":"Always or often feels lonely",
+    "VALUE":16.07777778
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.06620055,55.82857377 ]
+    },
+    "properties": {
+    "GEO":"Manitoba",
+    "Gender":"Women",
+    "Indicators":"Rarely or never feels lonely",
+    "VALUE":46.85555556
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.06620055,55.82857377 ]
+    },
+    "properties": {
+    "GEO":"Manitoba",
+    "Gender":"Women",
+    "Indicators":"Sometimes feels lonely",
+    "VALUE":37.56666667
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.32910762,46.96931588 ]
+    },
+    "properties": {
+    "GEO":"New Brunswick",
+    "Gender":"Men",
+    "Indicators":"Always or often feels lonely",
+    "VALUE":12.64444444
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.32910762,46.96931588 ]
+    },
+    "properties": {
+    "GEO":"New Brunswick",
+    "Gender":"Men",
+    "Indicators":"Rarely or never feels lonely",
+    "VALUE":58.14444444
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.32910762,46.96931588 ]
+    },
+    "properties": {
+    "GEO":"New Brunswick",
+    "Gender":"Men",
+    "Indicators":"Sometimes feels lonely",
+    "VALUE":29.77777778
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.32910762,46.96931588 ]
+    },
+    "properties": {
+    "GEO":"New Brunswick",
+    "Gender":"Women",
+    "Indicators":"Always or often feels lonely",
+    "VALUE":18.14444444
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.32910762,46.96931588 ]
+    },
+    "properties": {
+    "GEO":"New Brunswick",
+    "Gender":"Women",
+    "Indicators":"Rarely or never feels lonely",
+    "VALUE":47.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.32910762,46.96931588 ]
+    },
+    "properties": {
+    "GEO":"New Brunswick",
+    "Gender":"Women",
+    "Indicators":"Sometimes feels lonely",
+    "VALUE":35.05555556
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.33623525,48.75296353 ]
+    },
+    "properties": {
+    "GEO":"Newfoundland and Labrador",
+    "Gender":"Men",
+    "Indicators":"Always or often feels lonely",
+    "VALUE":10.16666667
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.33623525,48.75296353 ]
+    },
+    "properties": {
+    "GEO":"Newfoundland and Labrador",
+    "Gender":"Men",
+    "Indicators":"Rarely or never feels lonely",
+    "VALUE":69.41111111
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.33623525,48.75296353 ]
+    },
+    "properties": {
+    "GEO":"Newfoundland and Labrador",
+    "Gender":"Men",
+    "Indicators":"Sometimes feels lonely",
+    "VALUE":21.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.33623525,48.75296353 ]
+    },
+    "properties": {
+    "GEO":"Newfoundland and Labrador",
+    "Gender":"Women",
+    "Indicators":"Always or often feels lonely",
+    "VALUE":16.17777778
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.33623525,48.75296353 ]
+    },
+    "properties": {
+    "GEO":"Newfoundland and Labrador",
+    "Gender":"Women",
+    "Indicators":"Rarely or never feels lonely",
+    "VALUE":47.54444444
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.33623525,48.75296353 ]
+    },
+    "properties": {
+    "GEO":"Newfoundland and Labrador",
+    "Gender":"Women",
+    "Indicators":"Sometimes feels lonely",
+    "VALUE":36.87777778
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.23508915,45.17774569 ]
+    },
+    "properties": {
+    "GEO":"Nova Scotia",
+    "Gender":"Men",
+    "Indicators":"Always or often feels lonely",
+    "VALUE":10.82222222
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.23508915,45.17774569 ]
+    },
+    "properties": {
+    "GEO":"Nova Scotia",
+    "Gender":"Men",
+    "Indicators":"Rarely or never feels lonely",
+    "VALUE":57.23333333
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.23508915,45.17774569 ]
+    },
+    "properties": {
+    "GEO":"Nova Scotia",
+    "Gender":"Men",
+    "Indicators":"Sometimes feels lonely",
+    "VALUE":32.55555556
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.23508915,45.17774569 ]
+    },
+    "properties": {
+    "GEO":"Nova Scotia",
+    "Gender":"Women",
+    "Indicators":"Always or often feels lonely",
+    "VALUE":17.63333333
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.23508915,45.17774569 ]
+    },
+    "properties": {
+    "GEO":"Nova Scotia",
+    "Gender":"Women",
+    "Indicators":"Rarely or never feels lonely",
+    "VALUE":47.02222222
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.23508915,45.17774569 ]
+    },
+    "properties": {
+    "GEO":"Nova Scotia",
+    "Gender":"Women",
+    "Indicators":"Sometimes feels lonely",
+    "VALUE":35.83333333
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.02407458,50.92702006 ]
+    },
+    "properties": {
+    "GEO":"Ontario",
+    "Gender":"Men",
+    "Indicators":"Always or often feels lonely",
+    "VALUE":12.51111111
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.02407458,50.92702006 ]
+    },
+    "properties": {
+    "GEO":"Ontario",
+    "Gender":"Men",
+    "Indicators":"Rarely or never feels lonely",
+    "VALUE":56.04444444
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.02407458,50.92702006 ]
+    },
+    "properties": {
+    "GEO":"Ontario",
+    "Gender":"Men",
+    "Indicators":"Sometimes feels lonely",
+    "VALUE":31.55555556
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.02407458,50.92702006 ]
+    },
+    "properties": {
+    "GEO":"Ontario",
+    "Gender":"Women",
+    "Indicators":"Always or often feels lonely",
+    "VALUE":15.08888889
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.02407458,50.92702006 ]
+    },
+    "properties": {
+    "GEO":"Ontario",
+    "Gender":"Women",
+    "Indicators":"Rarely or never feels lonely",
+    "VALUE":47.23333333
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.02407458,50.92702006 ]
+    },
+    "properties": {
+    "GEO":"Ontario",
+    "Gender":"Women",
+    "Indicators":"Sometimes feels lonely",
+    "VALUE":37.75555556
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.14092337,46.28570356 ]
+    },
+    "properties": {
+    "GEO":"Prince Edward Island",
+    "Gender":"Men",
+    "Indicators":"Always or often feels lonely",
+    "VALUE":11.25555556
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.14092337,46.28570356 ]
+    },
+    "properties": {
+    "GEO":"Prince Edward Island",
+    "Gender":"Men",
+    "Indicators":"Rarely or never feels lonely",
+    "VALUE":61.33333333
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.14092337,46.28570356 ]
+    },
+    "properties": {
+    "GEO":"Prince Edward Island",
+    "Gender":"Men",
+    "Indicators":"Sometimes feels lonely",
+    "VALUE":28.08888889
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.14092337,46.28570356 ]
+    },
+    "properties": {
+    "GEO":"Prince Edward Island",
+    "Gender":"Women",
+    "Indicators":"Always or often feels lonely",
+    "VALUE":14.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.14092337,46.28570356 ]
+    },
+    "properties": {
+    "GEO":"Prince Edward Island",
+    "Gender":"Women",
+    "Indicators":"Rarely or never feels lonely",
+    "VALUE":50.18888889
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.14092337,46.28570356 ]
+    },
+    "properties": {
+    "GEO":"Prince Edward Island",
+    "Gender":"Women",
+    "Indicators":"Sometimes feels lonely",
+    "VALUE":35.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1060668,50.35927145 ]
+    },
+    "properties": {
+    "GEO":"Quebec",
+    "Gender":"Men",
+    "Indicators":"Always or often feels lonely",
+    "VALUE":12.33333333
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1060668,50.35927145 ]
+    },
+    "properties": {
+    "GEO":"Quebec",
+    "Gender":"Men",
+    "Indicators":"Rarely or never feels lonely",
+    "VALUE":60.6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1060668,50.35927145 ]
+    },
+    "properties": {
+    "GEO":"Quebec",
+    "Gender":"Men",
+    "Indicators":"Sometimes feels lonely",
+    "VALUE":27.26666667
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1060668,50.35927145 ]
+    },
+    "properties": {
+    "GEO":"Quebec",
+    "Gender":"Women",
+    "Indicators":"Always or often feels lonely",
+    "VALUE":15.75555556
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1060668,50.35927145 ]
+    },
+    "properties": {
+    "GEO":"Quebec",
+    "Gender":"Women",
+    "Indicators":"Rarely or never feels lonely",
+    "VALUE":51.88888889
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1060668,50.35927145 ]
+    },
+    "properties": {
+    "GEO":"Quebec",
+    "Gender":"Women",
+    "Indicators":"Sometimes feels lonely",
+    "VALUE":32.48888889
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.2518688,53.18099313 ]
+    },
+    "properties": {
+    "GEO":"Saskatchewan",
+    "Gender":"Men",
+    "Indicators":"Always or often feels lonely",
+    "VALUE":13.35555556
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.2518688,53.18099313 ]
+    },
+    "properties": {
+    "GEO":"Saskatchewan",
+    "Gender":"Men",
+    "Indicators":"Rarely or never feels lonely",
+    "VALUE":56.93333333
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.2518688,53.18099313 ]
+    },
+    "properties": {
+    "GEO":"Saskatchewan",
+    "Gender":"Men",
+    "Indicators":"Sometimes feels lonely",
+    "VALUE":30.32222222
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.2518688,53.18099313 ]
+    },
+    "properties": {
+    "GEO":"Saskatchewan",
+    "Gender":"Women",
+    "Indicators":"Always or often feels lonely",
+    "VALUE":12.85555556
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.2518688,53.18099313 ]
+    },
+    "properties": {
+    "GEO":"Saskatchewan",
+    "Gender":"Women",
+    "Indicators":"Rarely or never feels lonely",
+    "VALUE":50.13333333
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.2518688,53.18099313 ]
+    },
+    "properties": {
+    "GEO":"Saskatchewan",
+    "Gender":"Women",
+    "Indicators":"Sometimes feels lonely",
+    "VALUE":37.6
+    }
+  }
+]
+}
