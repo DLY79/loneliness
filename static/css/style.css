@@ -7,11 +7,25 @@ body,
   padding: 0;
   margin: 0;
 }
-.leaflet-popup-content {
-  width:500px;
+/* .leaflet-popup-content {
+  width:700px;
   height:400px;
 }
-  .popupImage {
-    width:400px !important;  
+
+.leaflet-tooltip img {
+  max-width: 200px;
+  max-height: 200px;
     }
-  
+.popupImage {
+  max-width: 20%;
+  max-height: 20%;
+} */
+.popupContainer image {width: 100%;}
+h1 {
+  color: aliceblue;
+  font-size: 3em;
+}
+
+.leaflet-zoom-box {
+  display: none;
+}

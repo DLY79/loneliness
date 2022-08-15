@@ -13,13 +13,13 @@ let provinceData = provinces;
 //    });
 var colour = provinceData.forEach(function(score){
   console.log(score)
-  if (score < 0) score = 0;
-if(score<=49)
-  color = "red";
-else if(score>=50 && score<85)
-  color = "blue";
+  
+if(score<=33.45)
+  color = 'E389B9';
+else if(score>=33.451 && score<=33.528)
+  color = "E83845";
 else
-  color = "green";
+  color = "746AB0ß";
 
 })
    
@@ -28,8 +28,11 @@ provinceData.forEach(function(province){
     console.log(province)
     L.circleMarker(province.location, {
         radius: 10,
-        color: colour,
-        opacity: 400
+       
+        backgroundcolor: colour,
+        opacity: 100,
+        fillOpacity: 0.75
+        
     })
     .bindPopup(province.province + "  " + province.chart).addTo(map);
 });
@@ -40,6 +43,7 @@ provinceData.forEach(function(province){
 
 var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
+      
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
 // var color = "red";
