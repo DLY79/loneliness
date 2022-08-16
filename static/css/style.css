@@ -24,6 +24,8 @@ body,
 h1 {
   color: aliceblue;
   font-size: 3em;
+  font-family:Helvetica;
+  font-style:initial;
 }
 
 .leaflet-zoom-box {

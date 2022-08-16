@@ -2,7 +2,7 @@
 console.log("working");
 
 // Create the map object with a center and zoom level.
-let map = L.map('mapid').setView([60.0522, -96.2437], 4);
+let map = L.map('mapid').setView([40.0522, -96.2437], 4);
 
 // Get data from cities.js
 let provinceData = provinces;
@@ -19,33 +19,53 @@ if(score<=33.45)
 else if(score>=33.451 && score<=33.528)
   color = "E83845";
 else
-  color = "746AB0ß";
+  color = "746AB0";
 
 })
-   
+
+// Remove zoom ability
+map.removeControl(map.zoomControl);  
 // Loop through the cities array and create one marker for each city.
 provinceData.forEach(function(province){
     console.log(province)
     L.circleMarker(province.location, {
         radius: 10,
-       
         backgroundcolor: colour,
         opacity: 100,
         fillOpacity: 0.75
         
     })
     .bindPopup(province.province + "  " + province.chart).addTo(map);
+    
 });
+map.on('popupclose', function(e) {
+  console.log(e.target);
+  map.setView([40.0522, -96.2437], 4);
+});
+// L.control.scale(<Control.Scale options> </Control.Scale>)
 
 // provinceData.forEach(function(score){
 //   console.log(score);
 // )}
 
 var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 19,
+    maxZoom: 4,
+    minZoom: 4,
+    zoomControl: true,
+    
+    
       
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
+
+// var div = L.DomUtil.get('div_id');
+// if (!L.Browser.touch) {
+//     L.DomEvent.disableClickPropagation(div);
+//     L.DomEvent.on(div, 'mousewheel', L.DomEvent.stopPropagation);
+// } else {
+//     L.DomEvent.on(div, 'click', L.DomEvent.stopPropagation);
+// }
+
 // var color = "red";
 // if (score < 0) score = 0;
 // if(score<=49)
