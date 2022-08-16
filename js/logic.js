@@ -2,7 +2,7 @@
 console.log("working");
 
 // Create the map object with a center and zoom level.
-let map = L.map('mapid').setView([40.0522, -96.2437], 4);
+let map = L.map('mapid').setView([36.4522, -96.2437], 4);
 
 // Get data from cities.js
 let provinceData = provinces;
@@ -19,7 +19,7 @@ if(score<=33.45)
 else if(score>=33.451 && score<=33.528)
   color = "E83845";
 else
-  color = "746AB0";
+  color = "FFFFFF";
 
 })
 
@@ -38,9 +38,24 @@ provinceData.forEach(function(province){
     .bindPopup(province.province + "  " + province.chart).addTo(map);
     
 });
+
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
 map.on('popupclose', function(e) {
   console.log(e.target);
-  map.setView([40.0522, -96.2437], 4);
+  map.setView([36.4522, -96.2437], 4);
 });
 // L.control.scale(<Control.Scale options> </Control.Scale>)
 
